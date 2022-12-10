@@ -1,0 +1,15 @@
+.container__main {
+    flex: 1 1 auto;
+    color: #ffffff;
+    background-color: #19c5bd;
+}
+
+.container__main .main__wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container__main .main__wrap span {
+    margin-top: 2rem;
+}

@@ -1,0 +1,11 @@
+.container__header {
+    color: #ffffff;
+    background-color: #c51919;
+}
+
+.container__header .header__wrap {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
