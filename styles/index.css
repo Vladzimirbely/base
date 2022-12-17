@@ -1,10 +1,12 @@
-@import './fonts.css';
 @import './normalize.css';
-@import '../fontawesome/css/all.css';
-@import './header.css';
-@import './nav.css';
-@import './main.css';
-@import './footer.css';
+@import './fonts.css';
+@import './all.css';
+@import './components/header.css';
+@import './components/nav.css';
+@import './components/aside.css';
+@import './components/main.css';
+@import './components/footer.css';
+@import './varibles.css';
 
 html {
     height: 100%;
@@ -23,12 +25,6 @@ img {
 }
 
 .container {
-    min-height: 100%;
-    display: flex;
-    flex-direction: column;
-}
-
-.wrap {
-    padding: 1rem 1rem;
+    padding: 1rem;
     box-sizing: border-box;
 }

@@ -1,0 +1,19 @@
+.aside {
+    width: 500px;
+    background-color: var(--orange);
+}
+
+.aside .aside__wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.aside .aside__wrapper a {
+    margin: 1rem 0;
+    text-decoration: none;
+    color: var(--white);
+}
+
+.aside .aside__wrapper a:hover {
+    color: var(--black);
+}

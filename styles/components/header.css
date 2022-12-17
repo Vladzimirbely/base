@@ -1,0 +1,11 @@
+.header {
+    color: var(--white);
+    background-color: var(--red);
+}
+
+.header .header__wrapper{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

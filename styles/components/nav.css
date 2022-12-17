@@ -1,0 +1,16 @@
+.nav {
+    background-color: var(--green);
+}
+
+.nav .nav__wrapper {
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav__wrapper a {
+    margin-right: 2rem;
+    text-decoration: none;
+    color: var(--white);
+}

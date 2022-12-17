@@ -1,0 +1,10 @@
+/* colors */
+
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --orange: rgb(248, 144, 9);
+    --purple: #bf19c5;
+    --red: #c51919;
+    --green: #25bb00;
+}

@@ -1,0 +1,19 @@
+.footer {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    color: var(--white);
+    background-color: var(--purple);
+}
+
+.footer .footer__wrapper {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .footer__wrapper a {
+    width: 40px;
+    color: var(--white);
+}

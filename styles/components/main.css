@@ -1,0 +1,15 @@
+.main {
+    min-height:100%;
+    display: flex;
+    color: var(--white);
+    background-color: var(--green);
+}
+
+.main .main__wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.main .main__wrapper span {
+    margin-top: 2rem;
+}
